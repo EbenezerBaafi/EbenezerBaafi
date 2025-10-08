@@ -11,6 +11,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Shell](https://img.shields.io/badge/Shell-999349?style=for-the-badge&logo=gnu-shell&logoColor=white)
 
   
 </div>
