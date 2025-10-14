@@ -5,6 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=EbenezerBaafi&style=for-the-badge&color=blue)](https://github.com/EbenezerBaafi)
 
 <div>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7b2c8d72-23fc-464b-b80e-353f0b383b6e" />
 
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
