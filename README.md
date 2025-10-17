@@ -13,7 +13,7 @@
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell-999349?style=for-the-badge&logo=gnu-shell&logoColor=white)
-
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   
 </div>
 
