@@ -1,5 +1,5 @@
 # 🐐 Ebenezer Baafi
-## I'm a Backend Developer! Let's work together 🚀
+## I'm a Backend / Flutter Developer! Let's work together 🚀
 
 [![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/EbenezerBaafi)
 [![Profile Views](https://komarev.com/ghpvc/?username=EbenezerBaafi&style=for-the-badge&color=blue)](https://github.com/EbenezerBaafi)
