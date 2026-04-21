@@ -18,6 +18,13 @@
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
 
+(https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/EbenezerBaafi)
+[![Profile Views](https://komarev.com/ghpvc/?username=EbenezerBaafi&style=for-the-badge&color=blue)](https://github.com/EbenezerBaafi)
+
+<div>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7b2c8d72-23fc-464b-b80e-353f0b383b6e" />
+
+
  
 ## 🧠 Languages & Tools
 
