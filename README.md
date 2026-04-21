@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Backend/Web/Mobile App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Backend%20Developer%20%7C%20.NET%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ebenezer%20%20Baafi%20D;Backend%20Developer%20%7C%20.NET%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
 
@@ -18,11 +18,9 @@
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
 
-(https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/EbenezerBaafi)
-[![Profile Views](https://komarev.com/ghpvc/?username=EbenezerBaafi&style=for-the-badge&color=blue)](https://github.com/EbenezerBaafi)
-
 <div>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7b2c8d72-23fc-464b-b80e-353f0b383b6e" />
+
 
 
  
@@ -35,17 +33,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" title="C#"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET Core / ASP.NET Core"/>
   <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" width="45" title="Entity Framework Core"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="45" title="Django"/>
+
 
   <!-- Frontend -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45" title="Flutter"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" title="React"/>
 
   <!-- Databases -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgres/PostgreSQL-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" title="Firebase"/>
 
   <!-- Tools -->
@@ -124,7 +123,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/EbenezerBaafi/EbenezerBaafi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
