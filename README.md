@@ -1,98 +1,123 @@
-# 🐐 Ebenezer Baafi
-## I'm a Backend / Flutter Developer! Let's work together 🚀
+<!-- Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Ebenezer Baafi</span></h1>
+<h3 align="center">🚀 Backend/Web/Mobile App Developer</h3>
 
-[![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/EbenezerBaafi)
-[![Profile Views](https://komarev.com/ghpvc/?username=EbenezerBaafi&style=for-the-badge&color=blue)](https://github.com/EbenezerBaafi)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Backend%20Developer%20%7C%20.NET%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
+</p>
 
-<div>
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7b2c8d72-23fc-464b-b80e-353f0b383b6e" />
 
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Shell](https://img.shields.io/badge/Shell-999349?style=for-the-badge&logo=gnu-shell&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   
-</div>
+## 💫 About Me
 
-## Profile Trophies
+- 🧑‍💻 I'm a **Software Engineer** and a final year student at the University of Ghana studying Computer Science*.  
+- 🧠 I have experience in **Artificial Intelligence (AI)** and love applying AI concepts to build **intelligent systems and APIs**.  
+- 🚀 I'm passionate about **learning new technologies**, improving my skills, and creating impactful software solutions.  
 
-<p align="left"> <a href="https://github.com/EbenezerBaafi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EbenezerBaafi" alt="EbenezerBaafi" /></a> </p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
-## Github Stats
-  
-| ![EbenezerBaafi Github Stats](https://github-readme-stats.vercel.app/api?username=EbenezerBaafi&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbenezerBaafi&langs_count=8&theme=radical&layout=compact) |
-| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EbenezerBaafi&theme=radical&utcOffset=8) |
-
-## Commit Graph
-[![EbenezerBaafi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EbenezerBaafi&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/EbenezerBaafi/github-readme-activity-graph)
+ 
+## 🧠 Languages & Tools
 
 
-## Languages and Tools:
-### ⚙️ Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center">
 
+  <!-- Core Backend (.NET) -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" title="C#"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET Core / ASP.NET Core"/>
+  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" width="45" title="Entity Framework Core"/>
 
+  <!-- Frontend -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" title="React"/>
 
+  <!-- Databases -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" title="Firebase"/>
 
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" title="Swagger"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" width="45" title="Visual Studio"/>
 
-### 🚀 Frameworks and Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+  <!-- DevOps / Architecture -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="45" title="Azure"/>
 
+  <!-- AI / Data -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="AI / OpenAI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
 
-### ⚡ Database and ORM Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+</p>
 
+## 🌍 Connect With Me
 
+<p align="center">
+  <table align="center">
+    <tr>
+       <td align="center" width="80">
+        <a href="https://www.linkedin.com/in/ebenezerbaafi" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+        </a>
+      </td>
+        <td align="center" width="80">
+        <a href="mailto:ebaafi007@gmail.com" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://wa.me/0508370895" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://t.me/@cedismilez" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
+        </a>
+      </td>    
+  </table>
+</p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
-### </> Frontend Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EbenezerBaafi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Eben's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EbenezerBaafi&theme=tokyonight&hide_border=true" alt="Eben's Streak Stats" />
+</p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbenezerBaafi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=EbenezerBaafi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
-### ☁ Cloud and API Services
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=EbenezerBaafi&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
+</p>
 
-### 💡 Testing Tools
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EbenezerBaafi/EbenezerBaafi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
-### ♾️ CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 📝 Documentation
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-
-### 🛠 Project Management and Collaboration Tools
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-### 🔁 Real-time Communication and WebSockets Libraries
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-
-## GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EbenezerBaafi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-
-## Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/2_cedi__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EbenezerBaafi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EbenezerBaafi)
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
